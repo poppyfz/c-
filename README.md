@@ -1,3 +1,3 @@
 # my first program
-# c-
+# c++
 programs of c++
